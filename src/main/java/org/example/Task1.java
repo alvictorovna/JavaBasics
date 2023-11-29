@@ -2,7 +2,7 @@ package org.example;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
-public class Task_1 {
+public class Task1 {
     public static void main(String[] args) {
         int[] temperature = {32, 30, 101, 34, 90, 108, 100};
 
